@@ -13,7 +13,7 @@ def decrypting(lex, indx, shift):
         decrypted_list.append(new_val)
     return decrypted_list
 def encrypting():
-  for letter in wordarr: # j,o,h,n,d,e,l,
+  for letter in wordarr:
       for i in lex: 
         if (letter == i):
           indx.append(lex.index(i)+shift)
