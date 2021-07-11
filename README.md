@@ -6,5 +6,5 @@ This Caesar Cipher will be just like the standard one, letting the user change t
 Possible improvements in the future:
 - Capability to encrypt strings with spaces:
 - Add multiplication instead of just simple addition/subtraction:
-- Decrypting function
+- Decrypting function (Done)
 - 
